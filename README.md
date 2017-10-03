@@ -5,6 +5,10 @@ The application makes use of RMI(Remote Method Invocation), Threads, and is desi
 
 # How to run
 Open Terminal(Mac) or cmd(Windows)
+
 $ javac *.java
+
 $ java TurnOnServer
+
 $ java TurnOnClient
+
